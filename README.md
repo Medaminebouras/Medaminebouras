@@ -50,7 +50,7 @@ This Android app is built to simplify and digitize the distribution of agricultu
 
 - 🌍 [medaminebouras.github.io](https://medaminebouras.github.io)
 - 📧 mohamedaminebouras982@gmail.com
-- 💼 [LinkedIn]([https://linkedin.co](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)m) <!-- Replace this if you want -->
+- 💼 [LinkedIn]([[https://linkedin.co](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)m) <!-- Replace this if you want -->
 - 💻 GitHub: [github.com/Medaminebouras](https://github.com/Medaminebouras)
 
 ---
