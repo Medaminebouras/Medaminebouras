@@ -1,4 +1,4 @@
-# 👨‍💻 Mohamed Arbi
+# 👨‍💻 Mohamed Amine Bouras
 
 Welcome to my **developer portfolio**!  
 I’m a passionate web developer with a love for clean code, elegant design, and functional applications.
@@ -34,7 +34,7 @@ This portfolio responsive and built with no frameworks.
 
 - ✉️ Email: [mohamedaminebouras982@gmail.com](mailto:mohamedaminebouras982@gmail.com.com)  
 - 🌐 Website: [https://medaminebouras.github.io](https://medaminebouras.github.io)  
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)]
 
 ---
 
