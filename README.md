@@ -1,50 +1,65 @@
-# 👨‍💻 Mohamed Amine Bouras
+# 👋 Hi, I'm Mohamed Amine Bouras
 
-Welcome to my **developer portfolio**!  
-I’m a passionate web developer with a love for clean code, elegant design, and functional applications.
+🎯 **Aspiring Back-End Developer** | 💻 **ALX ProDev Program** | 🇲🇦 Based in Morocco
 
 ---
 
-## 🚀 About Me
+## 🧑‍💼 About Me
 
-- 🎓 **Background**: Software Engineering
-- 💼 **Specialties**: HTML, CSS, JavaScript, Node.js , java, Php, Vb.Net, python
-- 🌱 Currently learning: React, devOps, Mongodb & ExpressJS 
-- 📍 Based in: Morocco
+I'm a motivated and adaptable software developer currently enrolled in the **ALX ProDev Back-End Developer program**, with a background in **Information Systems Engineering** and 2+ years of IT experience.
+
+My journey combines both **academic knowledge** and **real-world experience** — from working at **La Ferme du Lait** to being a **cashier at Decathlon**, and currently a **Credit Agent at Al Amana Microfinance**, I’ve developed strong problem-solving, teamwork, and client interaction skills.
+
+🌱 I'm passionate about learning and growth — both technical and personal — and I believe in continuous self-improvement.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript, HTML/CSS, Python
+- **Tools & Frameworks**: Node.js, Git, GitHub, Bash
+- **Learning**: Jetpack, Kotlin, React, REST APIs
 
 ---
 
 ## 💼 Projects
 
-### 🌦️ Topmovies  
-A dynamic one-page application built to display our team's favorite movies. 
-`HTML, CSS, JavaScript`
+### 🎮Topmovies 
+A dynamic one-page application built to display our team's favorite movies.
 
-### ✅ Todo List  
-This Android app is built to simplify and digitize the distribution of agricultural products, connecting distributors, and buyers in a streamlined supply chain platform..  
-`Java , Php, XML ,MySQL`
+### 🌐 Personal Portfolio Website  
+A responsive portfolio site built with HTML, CSS, and JavaScript.  
+🔗 [View Live](https://medaminebouras.github.io/)
 
-### 🧠 Portfolio Website  
-This portfolio responsive and built with no frameworks.  
-`HTML, CSS, JavaScript`
+### 📊 Agrodistr 
+This Android app is built to simplify and digitize the distribution of agricultural products, connecting distributors, and buyers in a streamlined supply chain platform.
+
+---
+
+## 🏆 Highlights
+
+- 🎓 Bachelor's in Engineering of Information Systems  
+- 🧑‍🎓 Studying Back-End Development via ALX Africa  
+- 🛫 Passed interviews for **Flight Attendant (RAM)**  
+- 🥅 Former **goalkeeper** in a high school football tournament  
+- 📷 Runs Instagram page: `chabakiya dzman`
 
 ---
 
 ## 📫 Contact Me
 
-- ✉️ Email: [mohamedaminebouras982@gmail.com](mailto:mohamedaminebouras982@gmail.com.com)  
-- 🌐 Website: [https://medaminebouras.github.io](https://medaminebouras.github.io)  
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)]
+- 🌍 [medaminebouras.github.io](https://medaminebouras.github.io)
+- 📧 mohamedaminebouras982@gmail.com
+- 💼 [LinkedIn]([https://linkedin.co](https://www.linkedin.com/in/mohamed-amine-bouras-511783242/)m) <!-- Replace this if you want -->
+- 💻 GitHub: [github.com/Medaminebouras](https://github.com/Medaminebouras)
 
 ---
 
-## 🌗 Fun Feature
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medaminebouras&show_icons=true&theme=radical)
+
+---
 
 > “Effort ignites ability and turns it into accomplishment.” — Carol Dweck  
-> _I believe in continuous growth and building cool things along the way._
-
----
-
-### ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medaminebouras&show_icons=true&theme=tokyonight)
+> _I'm still growing, still building, and still learning. The journey has just begun._
